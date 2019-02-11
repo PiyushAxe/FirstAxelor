@@ -1,0 +1,25 @@
+/.gradle/
+/build/
+
+
+# Eclispe
+bin
+.project
+.classpath
+.settings
+.metadata
+
+# dotenv or direnv
+.env
+.envrc
+
+# Miscellaneous
+*.log
+.clover
+.DS_Store
+
+# Profiler and heap dumps
+*.jps
+*.hprof
+/.nb-gradle/
+
